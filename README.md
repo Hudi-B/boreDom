@@ -1,6 +1,6 @@
 # boreDom
 
-<h1 align="center">Authorts:</h1>
+<h1 align="center">Authors:</h1>
 <table align="center">
   <tr>
     <td>Szegedi Bence</td>
