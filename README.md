@@ -10,5 +10,5 @@
   </tr>
 </table>
 <br>
-<img src="https://i.imgur.com/xh8SjZj.jpeg">
+<img src="https://i.imgur.com/xh8SjZj.jpeg" alt="pizza_on_pineapple" style="width="500">
 </div>
