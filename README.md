@@ -10,5 +10,5 @@
   </tr>
 </table>
 <br>
-<a href="https://imgur.com/a/5IvqEYS">
+<blockquote class="imgur-embed-pub" lang="en" data-id="xh8SjZj" data-context="false" ><a href="//imgur.com/xh8SjZj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
