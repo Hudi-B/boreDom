@@ -10,5 +10,5 @@
   </tr>
 </table>
 <br>
-<img src=url("https://trello.com/invite/boredom9/ATTI7f47bb4efefaf30333c60072e77fd47dB898778A")>
+<img src="https://imgur.com/a/5IvqEYS">
 </div>
