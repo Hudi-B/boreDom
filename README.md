@@ -1,6 +1,8 @@
 # boreDom
 
 <div align="center">
+<h1>Bored Bets</h1>
+<tr/>
 <h1>Authors:</h1>
 <table>
   <tr>
