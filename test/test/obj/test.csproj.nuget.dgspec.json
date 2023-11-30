@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git\\Backend\\test\\test\\test.csproj": {}
+    "E:\\Git\\boreDom\\test\\test\\test.csproj": {}
   },
   "projects": {
-    "E:\\Git\\Backend\\test\\test\\test.csproj": {
+    "E:\\Git\\boreDom\\test\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git\\Backend\\test\\test\\test.csproj",
+        "projectUniqueName": "E:\\Git\\boreDom\\test\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "E:\\Git\\Backend\\test\\test\\test.csproj",
+        "projectPath": "E:\\Git\\boreDom\\test\\test\\test.csproj",
         "packagesPath": "C:\\Users\\Balázs\\.nuget\\packages\\",
-        "outputPath": "E:\\Git\\Backend\\test\\test\\obj\\",
+        "outputPath": "E:\\Git\\boreDom\\test\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Balázs\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

@@ -1,3 +1,5 @@
+using test.Models.dbContext;
+
 namespace test
 {
     public class Program
@@ -6,6 +8,7 @@ namespace test
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddDbContext<Table_DbContext>();
             // Add services to the container.
 
             builder.Services.AddControllers();
