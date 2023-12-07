@@ -26,8 +26,13 @@ function App() {
                 </Link>
               </li>
               <li className="nav-item">
+                <Link to={`/login`} className="nav-link">
+                  Login
+                </Link>
+              </li>
+              <li className="nav-item">
                 <Link to={`/register`} className="nav-link">
-                  Login / Register
+                  Register
                 </Link>
               </li>
               <li className="nav-item">
@@ -43,9 +48,9 @@ function App() {
           <Route path="*" element={<Home/>} />
 
           <Route exact path="/community" element={<Community/>} />
-          <Route exact path="login" element={<Login/>} />
-          <Route exact path="register" element={<Register/>} />
-          <Route exact path="mypage" element={<MyPage/>} />
+          <Route exact path="/login" element={<Login/>} />
+          <Route exact path="/register" element={<Register/>} />
+          <Route exact path="/mypage" element={<MyPage/>} />
 
         </Routes>
       </Router>
